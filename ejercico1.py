@@ -27,4 +27,4 @@ while intentos <= 3:
             break 
     else:
         intentos+=1    
-        print("pin incorrecto")
+        print("Eduardo estuvo aqui")
